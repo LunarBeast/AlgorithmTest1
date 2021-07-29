@@ -42,7 +42,6 @@ public class AlgorithmProblemBFS {
         return 0;
     }
 
-
     static class TreeNode{
         int val;
         int deep;
